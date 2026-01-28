@@ -1,0 +1,154 @@
+.header{
+    background-color: #1e1e1e;
+}
+.header-container{
+
+}
+.header-text{
+margin: 3rem;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+.header-text h1{
+    max-width: 1300px;
+    font-weight: 600;
+    font-size: 85px;
+    text-align: center;
+    color: white;
+    line-height: 6rem;
+    margin-bottom: 1.5rem;
+}
+.header-text p{
+    max-width: 600px;
+    font-weight: 600;
+    font-size: 16px;
+    text-align: center;
+    color: white;
+    line-height: 1.8rem;    
+    font-weight: 300;
+}
+.header-cta-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 6rem;
+}
+.header-cta-b{
+    background-color:  var(--color);;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    margin-right: 1rem;
+    color: white;
+}
+.header-cta-b p{
+    
+}
+.header-cta{
+    border: 1px solid var(--color);
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    margin-left: 1rem;
+}
+.header-cta p{
+    color: white;
+}
+
+
+@media (max-width: 1500px) {
+    .header-text h1 {
+      font-size: 72px;
+      line-height: 5.2rem;
+    }
+  
+    .header-text p {
+      max-width: 580px;
+    }
+  }
+
+  @media (max-width: 1200px) {
+    .header-text {
+      margin: 2.5rem;
+    }
+  
+    .header-text h1 {
+      font-size: 64px;
+      line-height: 4.6rem;
+    }
+  
+    .header-text p {
+      max-width: 520px;
+      font-size: 15px;
+    }
+  }
+  
+  /* =========================
+     <= 800px (Tablets)
+     ========================= */
+  @media (max-width: 800px) {
+    .header-text {
+      margin: 2rem 6rem;
+    }
+  
+    .header-text h1 {
+      font-size: 48px;
+      line-height: 3.6rem;
+    }
+  
+    .header-text p {
+      max-width: 100%;
+      font-size: 15px;
+      line-height: 1.6rem;
+    }
+  
+    .header-cta-container {
+      flex-direction: row;
+      gap: 1rem;
+      padding-bottom: 4rem;
+      margin-top: 3rem;
+    }
+  
+    .header-cta,
+    .header-cta-b {
+      margin: 0;
+    }
+  }
+
+  /* =========================
+   <= 480px (Mobile)
+   ========================= */
+@media (max-width: 600px) {
+    .header-text {
+      margin: 1.5rem 2rem;
+    }
+  
+    .header-text h1 {
+      font-size: 30px;
+      line-height: 2.8rem;
+      margin-bottom: 1rem;
+    }
+  
+    .header-text p {
+      font-size: 14px;
+      line-height: 1.5rem;
+    }
+  
+    .header-cta-container {
+      padding-bottom: 3rem;
+    }
+  
+    .header-cta,
+    .header-cta-b {
+      width: 30%;
+      text-align: center;
+      padding: 0.5rem 1rem;
+    }
+    .header-cta p{
+        font-size: 14px;
+    }
+    .header-cta-b p {
+      font-size: 14px;
+    }
+  }

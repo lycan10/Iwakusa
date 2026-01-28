@@ -1,0 +1,244 @@
+.footer{
+ background-color: var(--background-color);
+}
+.footer-container{
+    padding: 6rem 8rem 4rem;
+}
+.footer-top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-logo{
+
+}
+.navbar-logo img{
+
+}
+.footer-links{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.footer-links p{
+    color: white;
+    padding-left: 1rem;
+    font-size: 14px;
+}
+.footer-contact{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0;
+}
+.footer-contact-left{
+
+}
+.footer-contact-left p{
+    font-size: 16px;
+    color: white;
+    max-width: 500px;
+    line-height: 1.85rem;
+}
+
+
+.footer-contact-socials-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.footer-contact-social{
+    color: white;
+    padding: 8px;
+    border: 0.5px solid white;
+    margin-right: 1rem;
+    border-radius: 50%;
+    font-size: 10px;
+
+}
+.footer-copyright-container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.copyright-info{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+}
+.copyright-info p{ 
+    color: white;
+    border-right: 1px solid white;
+    padding: 0 8px;
+    font-size: 14px;
+}
+.copyright-info :first-child{ 
+    padding: 0 8px 0 0;
+}
+.copyright-info :last-child{ 
+    border-right: 0px solid white;
+}
+
+.footer-copyright{
+
+}
+.footer-copyright p{
+    color: white;
+    font-size: 14px;
+}
+.footer-name{
+    width: 100%;
+}
+.footer-name h1{
+    font-size: clamp(4rem, 20vw, 22rem);
+    width: 100%;
+    text-align: center;
+    color: white;
+}
+
+/* =========================
+   <= 1500px
+   ========================= */
+   @media (max-width: 1550px) {
+    .footer-container {
+      padding: 5rem 6rem 3rem;
+    }
+  
+    .footer-name h1 {
+      font-size: clamp(4rem, 18vw, 20rem);
+    }
+  }
+  
+  /* =========================
+     <= 1200px
+     ========================= */
+  @media (max-width: 1200px) {
+    .footer-container {
+      padding: 4rem 4rem 3rem;
+    }
+  
+    .footer-contact {
+      gap: 3rem;
+    }
+  }
+  
+  /* =========================
+     <= 900px (Tablets)
+     ========================= */
+  @media (max-width: 900px) {
+    .footer-top {
+      flex-direction: column;
+      gap: 2rem;
+      align-items: flex-start;
+    }
+  
+    .footer-links {
+      flex-wrap: wrap;
+      justify-content: flex-start;
+    }
+  
+    .footer-contact {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 2rem;
+    }
+  
+    .footer-contact-left p {
+      max-width: 100%;
+    }
+  
+    .footer-copyright-container {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 1rem;
+    }
+    .footer-links p {
+        padding-left: 0;
+        padding-right: 1rem;
+        margin-bottom: 0.5rem;
+      }
+  }
+  
+  /* =========================
+     <= 600px (Mobile)
+     ========================= */
+  @media (max-width: 500px) {
+    .footer-container {
+      padding: 2rem 1.5rem 3rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+    .footer-top {
+        flex-direction: column;
+        gap: 1rem;
+        align-items: center;
+    }
+    .footer-logo{
+        width: 200px;
+        height: 55px;
+    }
+    .footer-contact {
+        flex-direction: column;
+        align-items: center;
+        gap: 1.5rem;
+        margin: 1.5rem 0 1rem;
+      }
+      .footer-contact-left p{
+       text-align: center;
+      }
+  
+    .footer-links p {
+      padding-left: 0;
+      padding-right: 0.5rem;
+      padding-left: 0.5rem;
+      margin-bottom: 0.5rem;
+    }
+    .footer-contact-socials-container{
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        width: 100%;
+    
+    }
+  
+    .footer-contact-social {
+      margin-right: 0.5rem;
+      margin-left: 0.5rem;
+   
+    }
+  
+    .copyright-info {
+        width: 100%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding: 0;
+    }
+    .copyright-info:first-child p {
+        border-right: none;
+        padding: 0.75rem 0rem;
+      }
+  
+    .copyright-info p {
+      border-right: none;
+      padding: 0.75rem 0rem;
+    }
+  
+    .footer-name h1 {
+        margin-top: 2.5rem;
+      font-size: clamp(3rem, 18vw, 14rem);
+      line-height: 1;
+    }
+  }
+  

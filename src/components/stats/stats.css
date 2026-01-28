@@ -1,0 +1,95 @@
+.stats{
+
+}
+.stats-grid{
+padding: 4rem 8rem;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+}
+.stat{
+
+}
+.stat h3{
+    margin-bottom: 0.75rem;
+}
+.stat p{
+    text-align: center;
+}
+
+/* =========================
+   <= 1500px
+   ========================= */
+   @media (max-width: 1500px) {
+    .stats-grid {
+      padding: 4rem 6rem;
+    }
+  }
+  
+  /* =========================
+     <= 1200px
+     ========================= */
+  @media (max-width: 1200px) {
+    .stats-grid {
+      padding: 3.5rem 4rem;
+    }
+    .stat h3 {
+        font-size: 17px;
+      }
+    
+      .stat p {
+        font-size: 14px;
+        font-weight: 300;
+      }
+  }
+  
+  /* =========================
+     <= 900px (Tablets)
+     ========================= */
+  @media (max-width: 900px) {
+    .stats-grid {
+      flex-wrap: wrap;
+      gap: 3rem;
+      justify-content: center;
+      text-align: center;
+    }
+  
+    .stat {
+      width: 45%;
+    }
+    .stat h3 {
+        font-size: 16px;
+      }
+    
+      .stat p {
+        font-size: 14px;
+        font-weight: 300;
+      }
+  }
+  
+  /* =========================
+     <= 600px (Mobile)
+     ========================= */
+  @media (max-width: 600px) {
+    .stats-grid {
+        /* display: grid;
+        grid-template-columns: 1fr 1fr; */
+      padding: 2rem 1.5rem;
+      gap: 2rem;
+    }
+  
+    .stat {
+      width: 100%;
+    }
+  
+    .stat h3 {
+      font-size: 17px;
+    }
+  
+    .stat p {
+      font-size: 14px;
+      font-weight: 300;
+    }
+  }
+  
