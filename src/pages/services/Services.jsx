@@ -1,6 +1,5 @@
 import React from "react";
 import "./services.css";
-import banner from "../../assets/iwakusa_banner.jpg";
 import spotlight from "../../assets/iwakusa-services.jpg";
 import Footer from "../../components/footer/Footer";
 import Navbar from "../../components/navbar/Navbar"; 

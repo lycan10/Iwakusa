@@ -7,9 +7,7 @@
   height: 980px;
 }
 
-.header-container{
 
-}
 .header-text{
 margin: 3rem;
 display: flex;
@@ -49,9 +47,7 @@ align-items: center;
     margin-right: 1rem;
     color: white;
 }
-.header-cta-b p{
-    
-}
+
 .header-cta{
     border: 1px solid var(--color);
     padding: 0.5rem 1rem;

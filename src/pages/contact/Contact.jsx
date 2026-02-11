@@ -5,7 +5,6 @@ import {
   Mail01Icon,
   Call02Icon,
   Globe02Icon,
-  Location01Icon
 } from "@hugeicons/core-free-icons";
 import Footer from "../../components/footer/Footer";
 import Navbar from "../../components/navbar/Navbar";
