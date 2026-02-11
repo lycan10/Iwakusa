@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2560px" height="1440px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 2560 1440"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#1A1A1A}
+    .fil9 {fill:#663300}
+    .fil2 {fill:white}
+    .fil7 {fill:url(#id29)}
+    .fil5 {fill:url(#id30)}
+    .fil10 {fill:url(#id31)}
+    .fil3 {fill:url(#id32)}
+    .fil8 {fill:url(#id33)}
+    .fil6 {fill:url(#id34)}
+    .fil4 {fill:url(#id35)}
+    .fil11 {fill:url(#id36)}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M0 -3l2564.5 0 0 1443 -2564.5 0 0 -1443z"/>
+    </clipPath>
+     <clipPath id="id1">
+      <path d="M2564.5 36.01l0 1403.99 -2564.5 0 0 -1403.99 2564.5 0z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M0 -3l2564.5 0 0 1443 -2564.5 0 0 -1443z"/>
+     </clipPath>
+    <clipPath id="id3">
+     <path d="M0 -3l2564.5 0 0 758.35c-360.58,610.12 -923.84,100.94 -1350.39,170.19 -196.77,31.94 -285.61,272.06 -619.48,263.9 -345.52,-8.44 -329.06,-155.08 -594.63,250.56l0 -1443z"/>
+    </clipPath>
+      <mask id="id4">
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" cx="963.79" cy="-580.76" r="0" fx="963.79" fy="-580.76">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id5)" x="962.75" y="-581.8" width="660.87" height="1030.45"/>
+      </mask>
+      <mask id="id6">
+  <radialGradient id="id7" gradientUnits="userSpaceOnUse" cx="288.91" cy="-483.88" r="0" fx="288.91" fy="-483.88">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id7)" x="287.87" y="-484.92" width="660.88" height="772.3"/>
+      </mask>
+      <mask id="id8">
+  <radialGradient id="id9" gradientUnits="userSpaceOnUse" cx="1681.08" cy="-496.37" r="0" fx="1681.08" fy="-496.37">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id9)" x="1680.04" y="-497.41" width="660.88" height="803.52"/>
+      </mask>
+      <mask id="id10">
+  <radialGradient id="id11" gradientUnits="userSpaceOnUse" cx="-435.79" cy="334.19" r="0" fx="-435.79" fy="334.19">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id11)" x="-436.83" y="333.15" width="660.87" height="803.52"/>
+      </mask>
+      <mask id="id12">
+  <radialGradient id="id13" gradientUnits="userSpaceOnUse" cx="2336.12" cy="-40.5" r="0" fx="2336.12" fy="-40.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id13)" x="2335.08" y="-41.54" width="660.88" height="803.52"/>
+      </mask>
+      <mask id="id14">
+  <radialGradient id="id15" gradientUnits="userSpaceOnUse" cx="945.14" cy="630.74" r="0" fx="945.14" fy="630.74">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id15)" x="944.1" y="629.7" width="660.88" height="1030.45"/>
+      </mask>
+    <clipPath id="id16">
+     <path d="M0 -3l2564.5 0 0 758.35c-360.58,610.12 -936.99,81.97 -1363.54,151.23 -196.78,31.95 -266.11,272.55 -599.98,264.39 -345.52,-8.45 -335.41,-136.61 -600.98,269.03l0 -1443z"/>
+    </clipPath>
+      <mask id="id17">
+  <radialGradient id="id18" gradientUnits="userSpaceOnUse" cx="963.79" cy="-580.76" r="0" fx="963.79" fy="-580.76">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id18)" x="962.75" y="-581.8" width="660.87" height="1030.45"/>
+      </mask>
+      <mask id="id19">
+  <radialGradient id="id20" gradientUnits="userSpaceOnUse" cx="288.91" cy="-483.88" r="0" fx="288.91" fy="-483.88">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id20)" x="287.87" y="-484.92" width="660.88" height="772.3"/>
+      </mask>
+      <mask id="id21">
+  <radialGradient id="id22" gradientUnits="userSpaceOnUse" cx="1681.08" cy="-496.37" r="0" fx="1681.08" fy="-496.37">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id22)" x="1680.04" y="-497.41" width="660.88" height="803.52"/>
+      </mask>
+      <mask id="id23">
+  <radialGradient id="id24" gradientUnits="userSpaceOnUse" cx="-435.79" cy="334.19" r="0" fx="-435.79" fy="334.19">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id24)" x="-436.83" y="333.15" width="660.87" height="803.52"/>
+      </mask>
+      <mask id="id25">
+  <radialGradient id="id26" gradientUnits="userSpaceOnUse" cx="2336.12" cy="-40.5" r="0" fx="2336.12" fy="-40.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id26)" x="2335.08" y="-41.54" width="660.88" height="803.52"/>
+      </mask>
+      <mask id="id27">
+  <radialGradient id="id28" gradientUnits="userSpaceOnUse" cx="945.14" cy="630.74" r="0" fx="945.14" fy="630.74">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id28)" x="944.1" y="629.7" width="660.88" height="1030.45"/>
+      </mask>
+  <radialGradient id="id29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.822011 -0 -0 1 474 0)" cx="2665.52" cy="360.22" r="400.72" fx="2665.52" fy="360.22">
+   <stop offset="0" style="stop-opacity:1; stop-color:#8C6820"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#825610"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#784400"/>
+  </radialGradient>
+  <radialGradient id="id30" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.822011 -0 -0 1 358 0)" xlink:href="#id29" cx="2010.48" cy="-95.65" r="400.72" fx="2010.48" fy="-95.65">
+  </radialGradient>
+  <radialGradient id="id31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.855334 -0 -0 1 89 0)" xlink:href="#id29" cx="618.31" cy="-98.77" r="385.11" fx="618.31" fy="-98.77">
+  </radialGradient>
+  <radialGradient id="id32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.640623 -0 -0 1 465 0)" xlink:href="#id29" cx="1293.18" cy="-66.57" r="514.18" fx="1293.18" fy="-66.57">
+  </radialGradient>
+  <radialGradient id="id33" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.640622 -0 -0 0.999999 458 0)" xlink:href="#id29" cx="1274.54" cy="1144.93" r="514.18" fx="1274.54" fy="1144.93">
+  </radialGradient>
+  <radialGradient id="id34" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.822011 -0 -0 1 -19 0)" xlink:href="#id29" cx="-106.39" cy="734.91" r="400.72" fx="-106.39" fy="734.91">
+  </radialGradient>
+  <radialGradient id="id35" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.855334 -0 -0 1 89 0)" xlink:href="#id29" cx="618.31" cy="-98.77" r="385.11" fx="618.31" fy="-98.77">
+  </radialGradient>
+  <radialGradient id="id36" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.822011 -0 -0 1 358 0)" xlink:href="#id29" cx="2010.48" cy="-95.65" r="400.72" fx="2010.48" fy="-95.65">
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1999370035408">
+   <polygon class="fil0" points="0,-3 2564.5,-3 2564.5,1440 0,1440 "/>
+   <g style="clip-path:url(#id0)">
+    <g>
+    </g>
+    <g style="clip-path:url(#id1)">
+     <image x="-10.26" y="36.01" width="2587.21" height="1417.97" xlink:href="2560_Images\2560_ImgID1.png"/>
+    </g>
+    <g style="clip-path:url(#id2)">
+    </g>
+   </g>
+   <polygon class="fil1" points="0,-3 2564.5,-3 2564.5,1440 0,1440 "/>
+   <path class="fil2" d="M0 -3l2564.5 0 0 758.35c-360.58,610.12 -923.84,100.94 -1350.39,170.19 -196.77,31.94 -285.61,272.06 -619.48,263.9 -345.52,-8.44 -329.06,-155.08 -594.63,250.56l0 -1443z"/>
+   <g style="clip-path:url(#id3)">
+    <g>
+     <path id="_1" class="fil3" style="mask:url(#id4)" d="M1293.19 -580.76c181.92,0 329.39,230.21 329.39,514.19 0,283.98 -147.47,514.18 -329.39,514.18 -181.93,0 -329.4,-230.2 -329.4,-514.18 0,-283.98 147.47,-514.19 329.4,-514.19z"/>
+     <path class="fil4" style="mask:url(#id6)" d="M618.31 -483.88c181.92,0 329.4,172.41 329.4,385.11 0,212.69 -147.48,385.11 -329.4,385.11 -181.92,0 -329.4,-172.42 -329.4,-385.11 0,-212.7 147.48,-385.11 329.4,-385.11z"/>
+     <path class="fil5" style="mask:url(#id8)" d="M2010.48 -496.37c181.92,0 329.4,179.41 329.4,400.72 0,221.31 -147.48,400.72 -329.4,400.72 -181.92,0 -329.4,-179.41 -329.4,-400.72 0,-221.31 147.48,-400.72 329.4,-400.72z"/>
+     <path class="fil6" style="mask:url(#id10)" d="M-106.39 334.19c181.92,0 329.39,179.41 329.39,400.72 0,221.31 -147.47,400.72 -329.39,400.72 -181.93,0 -329.4,-179.41 -329.4,-400.72 0,-221.31 147.47,-400.72 329.4,-400.72z"/>
+     <path class="fil7" style="mask:url(#id12)" d="M2665.52 -40.5c181.92,0 329.4,179.41 329.4,400.72 0,221.31 -147.48,400.72 -329.4,400.72 -181.92,0 -329.4,-179.41 -329.4,-400.72 0,-221.31 147.48,-400.72 329.4,-400.72z"/>
+     <path class="fil8" style="mask:url(#id14)" d="M1274.54 630.74c181.92,0 329.4,230.21 329.4,514.19 0,283.97 -147.48,514.18 -329.4,514.18 -181.92,0 -329.4,-230.21 -329.4,-514.18 0,-283.98 147.48,-514.19 329.4,-514.19z"/>
+    </g>
+   </g>
+   <path class="fil1" d="M0 -3l2564.5 0 0 758.35c-360.58,610.12 -923.84,100.94 -1350.39,170.19 -196.77,31.94 -285.61,272.06 -619.48,263.9 -345.52,-8.44 -329.06,-155.08 -594.63,250.56l0 -1443z"/>
+   <path class="fil9" d="M0 -3l2564.5 0 0 758.35c-360.58,610.12 -936.99,81.97 -1363.54,151.23 -196.78,31.95 -266.11,272.55 -599.98,264.39 -345.52,-8.45 -335.41,-136.61 -600.98,269.03l0 -1443z"/>
+   <g style="clip-path:url(#id16)">
+    <g>
+     <path id="_1_0" class="fil3" style="mask:url(#id17)" d="M1293.19 -580.76c181.92,0 329.39,230.21 329.39,514.19 0,283.98 -147.47,514.18 -329.39,514.18 -181.93,0 -329.4,-230.2 -329.4,-514.18 0,-283.98 147.47,-514.19 329.4,-514.19z"/>
+     <path class="fil10" style="mask:url(#id19)" d="M618.31 -483.88c181.92,0 329.4,172.41 329.4,385.11 0,212.69 -147.48,385.11 -329.4,385.11 -181.92,0 -329.4,-172.42 -329.4,-385.11 0,-212.7 147.48,-385.11 329.4,-385.11z"/>
+     <path class="fil11" style="mask:url(#id21)" d="M2010.48 -496.37c181.92,0 329.4,179.41 329.4,400.72 0,221.31 -147.48,400.72 -329.4,400.72 -181.92,0 -329.4,-179.41 -329.4,-400.72 0,-221.31 147.48,-400.72 329.4,-400.72z"/>
+     <path class="fil6" style="mask:url(#id23)" d="M-106.39 334.19c181.92,0 329.39,179.41 329.39,400.72 0,221.31 -147.47,400.72 -329.39,400.72 -181.93,0 -329.4,-179.41 -329.4,-400.72 0,-221.31 147.47,-400.72 329.4,-400.72z"/>
+     <path class="fil7" style="mask:url(#id25)" d="M2665.52 -40.5c181.92,0 329.4,179.41 329.4,400.72 0,221.31 -147.48,400.72 -329.4,400.72 -181.92,0 -329.4,-179.41 -329.4,-400.72 0,-221.31 147.48,-400.72 329.4,-400.72z"/>
+     <path class="fil8" style="mask:url(#id27)" d="M1274.54 630.74c181.92,0 329.4,230.21 329.4,514.19 0,283.97 -147.48,514.18 -329.4,514.18 -181.92,0 -329.4,-230.21 -329.4,-514.18 0,-283.98 147.48,-514.19 329.4,-514.19z"/>
+    </g>
+   </g>
+   <path class="fil1" d="M0 -3l2564.5 0 0 758.35c-360.58,610.12 -936.99,81.97 -1363.54,151.23 -196.78,31.95 -266.11,272.55 -599.98,264.39 -345.52,-8.45 -335.41,-136.61 -600.98,269.03l0 -1443z"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,187 @@
+.contact-page{
+    background: #0f0f0f;
+    color: white;
+  }
+  
+  /* HERO */
+  
+  .contact-hero{
+    background-image: url("../../assets/iwakusa_contact_2.jpg") !important;
+  }
+  
+
+  
+  /* MAIN */
+  
+  /* MAIN WRAPPER */
+
+.contact-main{
+    padding: 5rem 8rem 8rem;
+    background-color: white;
+  }
+  
+  /* GRID */
+  
+  .contact-main-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5rem;
+    align-items: start;
+  }
+  
+  /* LEFT SIDE */
+  
+  .contact-left h2{
+    font-size: 38px;
+    margin-bottom: 1rem;
+    color: black;
+  }
+  
+  .contact-intro{
+    color: #333;
+    line-height: 1.8;
+    margin-bottom: 2rem;
+    max-width: 520px;
+  }
+  
+  /* CONTACT INFO */
+  
+  .contact-info-list{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+  }
+  
+  .contact-info-item{
+    display: flex;
+    align-items: flex-start;
+    gap: 1rem;
+    color: black;
+  }
+  
+  .contact-info-item h4{
+    margin: 0 0 .25rem 0;
+    font-weight: 600;
+    color: black;
+  }
+  
+  .contact-info-item p{
+    margin: 0;
+    color: #444;
+  }
+  
+  /* COMPANY NOTE */
+  
+  .contact-company-note{
+    border-left: 3px solid #cc9933;
+    padding-left: 1.25rem;
+    max-width: 520px;
+  }
+  
+  .contact-company-note p{
+    line-height: 1.7;
+    color: #333;
+  }
+  
+  /* RIGHT FORM CARD — NOW WHITE */
+  
+  .contact-right{
+    background: var(--background-color);
+    border: 1px solid rgba(0,0,0,0.08);
+    padding: 3rem;
+    border-radius: 0.5rem;
+  
+    /* Soft gold corporate shadow */
+    box-shadow: 0 12px 35px rgba(204,153,51,0.18);
+  }
+  
+  /* FORM */
+  
+  .contact-form{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+  }
+  
+  /* INPUTS — FIXED FOR WHITE BACKGROUND */
+  
+  .form-row input,
+  .form-row textarea{
+    width: 95%;
+    background: white;
+    border: 1px solid rgba(0,0,0,0.15);
+    padding: 1rem;
+    color: black;
+    font-size: 14px;
+    outline: none;
+    border-radius: 0.5rem;
+    transition: all .25s ease;
+  }
+  
+  .form-row input::placeholder,
+  .form-row textarea::placeholder{
+    color: rgba(0,0,0,0.45);
+  }
+  
+  .form-row input:focus,
+  .form-row textarea:focus{
+    border-color: #cc9933;
+    box-shadow: 0 0 0 2px rgba(204,153,51,0.15);
+  }
+  
+  /* BUTTON */
+  
+  .contact-form button{
+    margin-top: 1rem;
+    background: #cc9933;
+    color: white;
+    padding: 1rem;
+    border: none;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 10px;
+    transition: all .3s ease;
+  }
+  
+  .contact-form button:hover{
+    background: black;
+    color: white;
+  }
+  
+  /* RESPONSIVE */
+
+  @media (max-width: 1550px) {
+    .form-row input,
+  .form-row textarea{
+    width: 93%;
+    background: white;
+    border: 1px solid rgba(0,0,0,0.15);
+    padding: 1rem;
+    color: black;
+    font-size: 14px;
+    outline: none;
+    border-radius: 0.5rem;
+    transition: all .25s ease;
+  }
+  }
+  
+  @media (max-width: 1100px){
+    .contact-main{
+      padding: 4rem 4rem 6rem;
+    }
+  
+    .contact-main-container{
+      grid-template-columns: 1fr;
+      gap: 3rem;
+    }
+  }
+  
+  @media (max-width: 600px){
+    .contact-main{
+      padding: 3rem 1.5rem 5rem;
+    }
+  }
+  
+
+  

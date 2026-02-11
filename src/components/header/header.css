@@ -1,6 +1,12 @@
-.header{
-    background-color: #1e1e1e;
+.header {
+  background-color: #1e1e1e;
+  background-image: url("../../assets/iwakusa_gold_logo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 980px;
 }
+
 .header-container{
 
 }
@@ -120,6 +126,14 @@ align-items: center;
    <= 480px (Mobile)
    ========================= */
 @media (max-width: 600px) {
+  .header {
+    background-color: #1e1e1e;
+    background-image: url("../../assets/iwakusa_gold_mobile_logo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 650px;
+  }
     .header-text {
       margin: 1.5rem 2rem;
     }

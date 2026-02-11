@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1366px" height="768px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1366 768"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:none}
+    .fil0 {fill:#1A1A1A}
+    .fil9 {fill:#663300}
+    .fil2 {fill:white}
+    .fil10 {fill:url(#id29)}
+    .fil6 {fill:url(#id30)}
+    .fil4 {fill:url(#id31)}
+    .fil3 {fill:url(#id32)}
+    .fil8 {fill:url(#id33)}
+    .fil5 {fill:url(#id34)}
+    .fil7 {fill:url(#id35)}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M-1 0l1366.03 0 0 768 -1366.03 0 0 -768z"/>
+    </clipPath>
+     <clipPath id="id1">
+      <path d="M1365.03 20.76l0 747.24 -1366.03 0 0 -747.24 1366.03 0z"/>
+     </clipPath>
+     <clipPath id="id2">
+      <path d="M-1 0l1366.03 0 0 768 -1366.03 0 0 -768z"/>
+     </clipPath>
+    <clipPath id="id3">
+     <path d="M-1 0l1366.03 0 0 403.61c-192.07,324.72 -492.1,53.72 -719.31,90.58 -104.82,17 -152.14,144.8 -329.98,140.46 -184.05,-4.5 -175.28,-82.54 -316.74,133.35l0 -768z"/>
+    </clipPath>
+      <mask id="id4">
+  <radialGradient id="id5" gradientUnits="userSpaceOnUse" cx="512.38" cy="-307.5" r="0" fx="512.38" fy="-307.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id5)" x="511.34" y="-308.54" width="353" height="549.41"/>
+      </mask>
+      <mask id="id6">
+  <radialGradient id="id7" gradientUnits="userSpaceOnUse" cx="152.89" cy="-255.94" r="0" fx="152.89" fy="-255.94">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id7)" x="151.85" y="-256.98" width="353" height="412.01"/>
+      </mask>
+      <mask id="id8">
+  <radialGradient id="id9" gradientUnits="userSpaceOnUse" cx="894.46" cy="-262.59" r="0" fx="894.46" fy="-262.59">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id9)" x="893.42" y="-263.63" width="353" height="428.63"/>
+      </mask>
+      <mask id="id10">
+  <radialGradient id="id11" gradientUnits="userSpaceOnUse" cx="-233.13" cy="179.46" r="0" fx="-233.13" fy="179.46">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id11)" x="-234.17" y="178.42" width="353" height="428.63"/>
+      </mask>
+      <mask id="id12">
+  <radialGradient id="id13" gradientUnits="userSpaceOnUse" cx="1243.38" cy="-19.96" r="0" fx="1243.38" fy="-19.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id13)" x="1242.34" y="-21" width="353" height="428.63"/>
+      </mask>
+      <mask id="id14">
+  <radialGradient id="id15" gradientUnits="userSpaceOnUse" cx="502.45" cy="337.29" r="0" fx="502.45" fy="337.29">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id15)" x="501.41" y="336.25" width="353" height="549.41"/>
+      </mask>
+    <clipPath id="id16">
+     <path d="M-1 0l1366.03 0 0 403.61c-192.07,324.72 -499.1,43.63 -726.31,80.49 -104.82,17 -141.75,145.06 -319.6,140.71 -184.05,-4.49 -178.66,-72.7 -320.12,143.19l0 -768z"/>
+    </clipPath>
+      <mask id="id17">
+  <radialGradient id="id18" gradientUnits="userSpaceOnUse" cx="512.38" cy="-307.5" r="0" fx="512.38" fy="-307.5">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id18)" x="511.34" y="-308.54" width="353" height="549.41"/>
+      </mask>
+      <mask id="id19">
+  <radialGradient id="id20" gradientUnits="userSpaceOnUse" cx="152.89" cy="-255.94" r="0" fx="152.89" fy="-255.94">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id20)" x="151.85" y="-256.98" width="353" height="412.01"/>
+      </mask>
+      <mask id="id21">
+  <radialGradient id="id22" gradientUnits="userSpaceOnUse" cx="894.46" cy="-262.59" r="0" fx="894.46" fy="-262.59">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id22)" x="893.42" y="-263.63" width="353" height="428.63"/>
+      </mask>
+      <mask id="id23">
+  <radialGradient id="id24" gradientUnits="userSpaceOnUse" cx="-233.13" cy="179.46" r="0" fx="-233.13" fy="179.46">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id24)" x="-234.17" y="178.42" width="353" height="428.63"/>
+      </mask>
+      <mask id="id25">
+  <radialGradient id="id26" gradientUnits="userSpaceOnUse" cx="1243.38" cy="-19.96" r="0" fx="1243.38" fy="-19.96">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id26)" x="1242.34" y="-21" width="353" height="428.63"/>
+      </mask>
+      <mask id="id27">
+  <radialGradient id="id28" gradientUnits="userSpaceOnUse" cx="502.45" cy="337.29" r="0" fx="502.45" fy="337.29">
+   <stop offset="0" style="stop-opacity:1; stop-color:white"/>
+   <stop offset="1" style="stop-opacity:0; stop-color:white"/>
+  </radialGradient>
+       <rect style="fill:url(#id28)" x="501.41" y="336.25" width="353" height="549.41"/>
+      </mask>
+  <radialGradient id="id29" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.856049 -0 -0 1 47 0)" cx="328.35" cy="-50.97" r="204.97" fx="328.35" fy="-50.97">
+   <stop offset="0" style="stop-opacity:1; stop-color:#8C6820"/>
+   <stop offset="0.490196" style="stop-opacity:1; stop-color:#825610"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#784400"/>
+  </radialGradient>
+  <radialGradient id="id30" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.822702 -0 -0 1.00001 -10 0)" xlink:href="#id29" cx="-57.67" cy="392.73" r="213.27" fx="-57.67" fy="392.73">
+  </radialGradient>
+  <radialGradient id="id31" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.856049 -0 -0 1 47 0)" xlink:href="#id29" cx="328.35" cy="-50.97" r="204.97" fx="328.35" fy="-50.97">
+  </radialGradient>
+  <radialGradient id="id32" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.641159 -0 -0 1 247 0)" xlink:href="#id29" cx="687.84" cy="-33.83" r="273.66" fx="687.84" fy="-33.83">
+  </radialGradient>
+  <radialGradient id="id33" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.641157 -0 -0 1 243 0)" xlink:href="#id29" cx="677.91" cy="610.95" r="273.66" fx="677.91" fy="610.95">
+  </radialGradient>
+  <radialGradient id="id34" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.822696 -0 -0 0.999998 190 0)" xlink:href="#id29" cx="1069.92" cy="-49.31" r="213.28" fx="1069.92" fy="-49.31">
+  </radialGradient>
+  <radialGradient id="id35" gradientUnits="userSpaceOnUse" gradientTransform="matrix(0.8227 -0 -0 1 252 0)" xlink:href="#id29" cx="1418.84" cy="193.32" r="213.27" fx="1418.84" fy="193.32">
+  </radialGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2002707490016">
+   <polygon class="fil0" points="-1,0 1365.03,0 1365.03,768 -1,768 "/>
+   <g style="clip-path:url(#id0)">
+    <g>
+    </g>
+    <g style="clip-path:url(#id1)">
+     <image x="-6.47" y="20.76" width="1378.13" height="754.68" xlink:href="1366_Images\1366_ImgID1.png"/>
+    </g>
+    <g style="clip-path:url(#id2)">
+    </g>
+   </g>
+   <polygon class="fil1" points="-1,0 1365.03,0 1365.03,768 -1,768 "/>
+   <path class="fil2" d="M-1 0l1366.03 0 0 403.61c-192.07,324.72 -492.1,53.72 -719.31,90.58 -104.82,17 -152.14,144.8 -329.98,140.46 -184.05,-4.5 -175.28,-82.54 -316.74,133.35l0 -768z"/>
+   <g style="clip-path:url(#id3)">
+    <g>
+     <path id="_1" class="fil3" style="mask:url(#id4)" d="M687.84 -307.5c96.9,0 175.46,122.53 175.46,273.67 0,151.14 -78.56,273.66 -175.46,273.66 -96.9,0 -175.46,-122.52 -175.46,-273.66 0,-151.14 78.56,-273.67 175.46,-273.67z"/>
+     <path class="fil4" style="mask:url(#id6)" d="M328.35 -255.94c96.91,0 175.46,91.77 175.46,204.96 0,113.21 -78.55,204.97 -175.46,204.97 -96.9,0 -175.46,-91.76 -175.46,-204.97 0,-113.19 78.56,-204.96 175.46,-204.96z"/>
+     <path class="fil5" style="mask:url(#id8)" d="M1069.92 -262.59c96.9,0 175.46,95.49 175.46,213.28 0,117.79 -78.56,213.27 -175.46,213.27 -96.9,0 -175.46,-95.48 -175.46,-213.27 0,-117.79 78.56,-213.28 175.46,-213.28z"/>
+     <path class="fil6" style="mask:url(#id10)" d="M-57.67 179.46c96.9,0 175.46,95.49 175.46,213.28 0,117.78 -78.56,213.27 -175.46,213.27 -96.91,0 -175.46,-95.49 -175.46,-213.27 0,-117.79 78.55,-213.28 175.46,-213.28z"/>
+     <path class="fil7" style="mask:url(#id12)" d="M1418.84 -19.96c96.9,0 175.46,95.49 175.46,213.28 0,117.78 -78.56,213.27 -175.46,213.27 -96.91,0 -175.46,-95.49 -175.46,-213.27 0,-117.79 78.55,-213.28 175.46,-213.28z"/>
+     <path class="fil8" style="mask:url(#id14)" d="M677.91 337.29c96.9,0 175.46,122.53 175.46,273.67 0,151.13 -78.56,273.66 -175.46,273.66 -96.91,0 -175.46,-122.53 -175.46,-273.66 0,-151.14 78.55,-273.67 175.46,-273.67z"/>
+    </g>
+   </g>
+   <path class="fil1" d="M-1 0l1366.03 0 0 403.61c-192.07,324.72 -492.1,53.72 -719.31,90.58 -104.82,17 -152.14,144.8 -329.98,140.46 -184.05,-4.5 -175.28,-82.54 -316.74,133.35l0 -768z"/>
+   <path class="fil9" d="M-1 0l1366.03 0 0 403.61c-192.07,324.72 -499.1,43.63 -726.31,80.49 -104.82,17 -141.75,145.06 -319.6,140.71 -184.05,-4.49 -178.66,-72.7 -320.12,143.19l0 -768z"/>
+   <g style="clip-path:url(#id16)">
+    <g>
+     <path id="_1_0" class="fil3" style="mask:url(#id17)" d="M687.84 -307.5c96.9,0 175.46,122.53 175.46,273.67 0,151.14 -78.56,273.66 -175.46,273.66 -96.9,0 -175.46,-122.52 -175.46,-273.66 0,-151.14 78.56,-273.67 175.46,-273.67z"/>
+     <path class="fil10" style="mask:url(#id19)" d="M328.35 -255.94c96.91,0 175.46,91.77 175.46,204.96 0,113.21 -78.55,204.97 -175.46,204.97 -96.9,0 -175.46,-91.76 -175.46,-204.97 0,-113.19 78.56,-204.96 175.46,-204.96z"/>
+     <path class="fil5" style="mask:url(#id21)" d="M1069.92 -262.59c96.9,0 175.46,95.49 175.46,213.28 0,117.79 -78.56,213.27 -175.46,213.27 -96.9,0 -175.46,-95.48 -175.46,-213.27 0,-117.79 78.56,-213.28 175.46,-213.28z"/>
+     <path class="fil6" style="mask:url(#id23)" d="M-57.67 179.46c96.9,0 175.46,95.49 175.46,213.28 0,117.78 -78.56,213.27 -175.46,213.27 -96.91,0 -175.46,-95.49 -175.46,-213.27 0,-117.79 78.55,-213.28 175.46,-213.28z"/>
+     <path class="fil7" style="mask:url(#id25)" d="M1418.84 -19.96c96.9,0 175.46,95.49 175.46,213.28 0,117.78 -78.56,213.27 -175.46,213.27 -96.91,0 -175.46,-95.49 -175.46,-213.27 0,-117.79 78.55,-213.28 175.46,-213.28z"/>
+     <path class="fil8" style="mask:url(#id27)" d="M677.91 337.29c96.9,0 175.46,122.53 175.46,273.67 0,151.13 -78.56,273.66 -175.46,273.66 -96.91,0 -175.46,-122.53 -175.46,-273.66 0,-151.14 78.55,-273.67 175.46,-273.67z"/>
+    </g>
+   </g>
+   <path class="fil1" d="M-1 0l1366.03 0 0 403.61c-192.07,324.72 -499.1,43.63 -726.31,80.49 -104.82,17 -141.75,145.06 -319.6,140.71 -184.05,-4.49 -178.66,-72.7 -320.12,143.19l0 -768z"/>
+  </g>
+ </g>
+</svg>

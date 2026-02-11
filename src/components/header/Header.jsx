@@ -7,7 +7,7 @@ const Header = () => {
     <div className='header'>
       <div className="header-container">
         <Navbar />
-
+        
         <div className="header-text">
           <h1>Where Precious Metals Meet Global Opportunity</h1>
           <p>
